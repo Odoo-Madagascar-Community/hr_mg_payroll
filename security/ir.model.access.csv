@@ -1,2 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_hr_mg_leave_management_hr_mg_leave_management,hr_mg_leave_management.hr_mg_leave_management,model_hr_mg_leave_management_hr_mg_leave_management,base.group_user,1,1,1,1
