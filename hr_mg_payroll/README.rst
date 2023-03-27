@@ -1,5 +1,4 @@
-===================
-HR Leave Management Madagascar
+HR Payroll Malagasy
 ===================
 
 .. image:: https://img.shields.io/badge/Odoo-16.0-blue.svg
@@ -8,26 +7,34 @@ HR Leave Management Madagascar
 
 :Author: Odoo Madagascar Community
 :Maintainer: Odoo Madagascar Community
-:Description: HR Leave Management Madagascar
+:Description: HR Payroll Malagasy - A comprehensive solution for managing employee payrolls and taxes in Madagascar.
 
 .. image:: https://user-images.githubusercontent.com/59861055/227740409-3a70bdc2-6633-42bc-91cf-70dfe0a84d0f.png
    :width: 100%
-   :alt: HR Leave Management Madagascar
+   :alt: HR Payroll Malagasy
 
-Planned Features
-================
+Features
+========
 
-- Track employee leave requests with validation and refusal functionalities for managers.
-- Support for different types of paid leaves defined by Malagasy regulations, such as annual leave, sick leave, and maternity leave.
-- Automatic calculation of paid leave balances, based on days worked and leave already taken.
-- Employee self-service features to view their remaining paid leave balance and request leave directly from their Odoo profile.
-- Generate reports for managers to view leave requests, leave balances, and past absences for each employee.
+- Automate payroll calculations and tax deductions based on Malagasy regulations.
+- Manage employee information such as contracts, salaries, and work schedules.
+- Generate payslips and payroll reports.
+- Allow employees to view their payslips and other payroll information directly from their Odoo profile.
+- Available in both Malagasy and English.
 
-Note: This project is still under development. 
+Dependencies
+============
 
-![development](https://img.shields.io/badge/status-in%20development-red)
+This module depends on the following external module:
 
-Please feel free to contribute to the project, by forking the repository, making your changes, and creating a pull request.
+- `om_hr_payroll <https://apps.odoo.com/apps/modules/16.0/om_hr_payroll/>`_ by Odoo Mates.
+
+Note: This module is only available for the Odoo Community Edition.
+
+.. image:: https://img.shields.io/badge/status-in%20development-red
+   :alt: development
+
+Please feel free to contribute to the project by forking the repository, making your changes, and creating a pull request.
 
 Odoo Madagascar Community
 =========================

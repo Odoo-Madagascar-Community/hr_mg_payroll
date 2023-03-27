@@ -8,7 +8,7 @@
     "support": "Odoo Madagascar Community",
     "images": ["static/img/background.png"],
     "development_status": "development",
-    "maintainers": ["rivo2302" ,"BriceCG"],
+    "maintainers": ["rivo2302", "BriceCG"],
     "author": "Odoo Community Madagascar",
     "website": "https://github.com/Odoo-Madagascar-Community",
     "live_test_url": "https://www.facebook.com/groups/odoomadacommunity",
@@ -16,9 +16,14 @@
     "version": "0.1",
     "depends": ["hr", "hr_holidays", "om_hr_payroll"],
     "data": [
-        # 'security/ir.model.access.csv',
+        # security
+        "security/ir.model.access.csv",
+        # data
+        # views
         "views/views.xml",
         "views/templates.xml",
+        # reports
+        # wizards
     ],
     "installable": True,
     "application": True,

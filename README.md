@@ -1,27 +1,32 @@
-# HR Leave Management - Madagascar Localization
+# HR Payroll Malagasy
 
-👋 Welcome to the HR Leave Management module repository!
+👋 Welcome to the HR Payroll Malagasy module repository!
 
-This module is intended to provide a comprehensive solution for managing employee leave requests and calculating paid leave balances according to Malagasy regulations. 
+This module is intended to provide a comprehensive solution for managing employee payroll according to Malagasy regulations. 
+
+## Dependencies
+
+This module depends on the om_hr_payroll module, developed by <b>Odoo Mates</b>. Make sure to install this module first before installing HR Payroll Malagasy.
+
+👉 You can find the om_hr_payroll module on the Odoo Apps store at this link: https://apps.odoo.com/apps/modules/16.0/om_hr_payroll/
 
 ## Planned Features
 
-- 🗓️ Track employee leave requests with approval and rejection functionality for managers.
-- 📝 Support various types of paid leave, such as annual leave, sick leave, and maternity leave, as defined by Malagasy regulations.
-- 🧮 Automatically calculate paid leave balances based on days worked and leave taken.
-- 👨‍💼 Allow employees to view their remaining paid leave balance and submit leave requests directly from their Odoo profile.
-- 📊 Generate reports for managers to view leave requests, balances, and past absences for each employee.
+- 🧾 Manage employee contracts with information such as job title, salary, and employment status.
+- 📄 Generate monthly payslips for each employee.
+- 🗓️ Track employee attendance and absences.
+- 📊 Generate reports for payroll details, attendance, and payslips.
 - 🌐 Available in both Malagasy and English.
 
 ## How to Contribute
 
 We welcome all contributions to improve and enhance this module. If you're interested in contributing, here are some tasks you can work on:
 
-- [ ] Add support for additional types of leave.
-- [ ] Implement multi-level approval workflows for leave requests.
-- [ ] Add notifications for managers and employees regarding leave requests and approvals.
-- [ ] Create more detailed reports for leave balances and requests.
+- [ ] Add support for additional payroll features, such as bonuses or allowances.
+- [ ] Implement more advanced attendance tracking functionality.
+- [ ] Create additional payroll reports, such as tax reports or social security reports.
 - [ ] Improve the user interface and user experience.
 
 Thank you for your interest in this project! We look forward to working with you.
 
+🚫 This module is only available for Odoo Community Edition.
