@@ -6,15 +6,12 @@ HR Payroll Malagasy
    :alt: Odoo 16.0
 
 :Author: Odoo Madagascar Community
-:Maintainer: Odoo Madagascar Community
+:Maintainer: `Rivo2302 <https://github.com/rivo2302/>`_ , `BriceCG <https://github.com/bricecg>`_
 :Description: HR Payroll Malagasy - A comprehensive solution for managing employee payrolls and taxes in Madagascar.
 
-.. image:: https://user-images.githubusercontent.com/59861055/227740409-3a70bdc2-6633-42bc-91cf-70dfe0a84d0f.png
-   :width: 100%
-   :alt: HR Payroll Malagasy
 
-Features
-========
+:sparkles: Features
+====================
 
 - Automate payroll calculations and tax deductions based on Malagasy regulations.
 - Manage employee information such as contracts, salaries, and work schedules.
@@ -22,8 +19,8 @@ Features
 - Allow employees to view their payslips and other payroll information directly from their Odoo profile.
 - Available in both Malagasy and English.
 
-Dependencies
-============
+:warning: Dependencies
+=======================
 
 This module depends on the following external module:
 
@@ -36,11 +33,11 @@ Note: This module is only available for the Odoo Community Edition.
 
 Please feel free to contribute to the project by forking the repository, making your changes, and creating a pull request.
 
-Odoo Madagascar Community
-=========================
+:rocket: Odoo Madagascar Community
+===================================
 
 Odoo Madagascar Community is a group of Odoo enthusiasts and professionals who aim to promote the use and development of Odoo in Madagascar. We welcome anyone who is interested in contributing to the community, either by developing modules, organizing events or sharing their knowledge.
 
-.. image:: https://avatars.githubusercontent.com/u/128931490?s=200&v=4
-   :width: 150
-   :alt: Odoo Madagascar Community Logo
+.. image:: https://user-images.githubusercontent.com/59861055/227740409-3a70bdc2-6633-42bc-91cf-70dfe0a84d0f.png
+   :width: 100%
+   :alt: HR Payroll Malagasy
