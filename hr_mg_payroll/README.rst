@@ -5,6 +5,8 @@ HR Payroll Malagasy
    :target: https://www.odoo.com/
    :alt: Odoo 16.0
 
+
+
 :Author : Odoo Madagascar Community
 :Maintainer : `Rivo2302 <https://github.com/rivo2302>`_ , `BriceCG <https://github.com/bricecg>`_
 :Description : HR Payroll Malagasy - A comprehensive solution for managing employee payrolls and taxes in Madagascar.
@@ -48,6 +50,8 @@ We welcome anyone who is interested in contributing to the community, either by 
 
 
 
+
 Note: This module is only available for the Odoo Community Edition.
+
 .. image:: https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-red?style=for-the-badge&logo=appveyor
    :alt: Development
