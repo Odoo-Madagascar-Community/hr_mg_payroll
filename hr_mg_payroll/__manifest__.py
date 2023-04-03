@@ -14,11 +14,15 @@
     "live_test_url": "https://www.facebook.com/groups/odoomadacommunity",
     "category": "Human Resources",
     "version": "0.1",
-    "depends": ["hr", "hr_holidays", "om_hr_payroll"],
+    "depends": ["base","hr", "hr_holidays", "om_hr_payroll"],
     "data": [
         # security
         "security/ir.model.access.csv",
+        "security/hr_mg_payroll_security.xml",
         # data
+        "data/hr_payroll_sequence.xml",
+        "data/hr_payroll_category.xml",
+        "data/hr_payroll_data.xml",
         # views
         "views/views.xml",
         "views/templates.xml",
@@ -27,7 +31,7 @@
     ],
     "installable": True,
     "application": True,
-    "sequence": "1",
+    "sequence": 2,
     "price": "0",
     "currency": "USD",
 }
